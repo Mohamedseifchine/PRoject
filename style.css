@@ -1,0 +1,198 @@
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
+.logo h1 buttonb{
+ font-family: 'Courier New', Courier, monospace;
+ color: rgb(0, 0, 0);
+}
+.logo img{
+    height: 60px;
+    width: 170px;
+}
+button{
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(197, 8, 8);
+    height: 60px;
+}
+.video {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.video h1{
+    margin-right: auto;
+}
+.Games{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Games p{
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+}
+.game1 img{
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+}
+.game1 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.game div{
+    display: flex;
+}
+.game2 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.game2 img{
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+}
+.game3 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.game3 img{
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+}
+.game3 div{
+    display: flex;
+}
+.game4 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+}
+.game4 img{
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+}
+.game4 div{
+    display: flex;
+}
+.game5 div{
+    display: flex;
+
+}
+.game5 img{
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+}
+.game5 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+}
+.game6 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+}
+.game6 div{
+    display: flex;
+}
+.game6 img {
+    width: 40%;
+}
+.game7 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+}
+.game7 div{
+    display: flex;
+}
+.game7 img {
+    width: 40%;
+}
+.game8 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+}
+.game8 div{
+    display: flex;
+}
+.game8 img {
+    width: 40%;
+}
+.game9 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+}
+.game9 div{
+    display: flex;
+}
+.game9 img {
+    width: 40%;
+}
+.game10 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+}
+.game10 div{
+    display: flex;
+}
+.game10 img {
+    width: 40%;
+}
+.game11 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+}
+.game11 div{
+    display: flex;
+}
+.game11 img {
+    width: 40%;
+}
+.game12 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+}
+.game12 div{
+    display: flex;
+}
+.game12 img {
+    width: 40%;
+}
+.game13 p{
+    margin-left: auto;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+}
+.game13 div{
+    display: flex;
+}
+.game13 img {
+    width: 40%;
+}
